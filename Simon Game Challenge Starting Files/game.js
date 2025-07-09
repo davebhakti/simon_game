@@ -1,7 +1,6 @@
 var buttonColours = ["red", "blue", "green", "yellow"]
 var gamePattern = [];
 var userClickedPattern = [];
-var randomChosenColour = buttonColors[randomNumber];
 var started = false;
 var level = 0;
 
